@@ -112,5 +112,3 @@ Here is a snapshot of the dashboard:
 - **DAX** - Advanced calculations and measures
 - **Excel** - Raw data source
 - **Star Schema** - Dimensional modeling approach
-
----
