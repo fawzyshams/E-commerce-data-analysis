@@ -92,7 +92,7 @@ Created advanced calculations for KPIs, growth percentages, and trend analysis.
 
 Here is a snapshot of the dashboard:
 
-![E-Commerce Dashboard](ُE commerce.png)
+![E-Commerce Dashboard](E commerce.png)
 
 ---
 
