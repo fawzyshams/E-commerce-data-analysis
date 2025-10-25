@@ -92,7 +92,7 @@ Created advanced calculations for KPIs, growth percentages, and trend analysis.
 
 Here is a snapshot of the dashboard:
 
-![E-Commerce Dashboard](dashboard_screenshot.png)
+![E-Commerce Dashboard](ُE commerce.png)
 
 ---
 
@@ -113,15 +113,5 @@ Here is a snapshot of the dashboard:
 - **DAX** - Advanced calculations and measures
 - **Excel** - Raw data source
 - **Star Schema** - Dimensional modeling approach
-
----
-
-## 🔹 Future Enhancements
-
-- [ ] Add customer segmentation analysis (RFM)
-- [ ] Implement geographic sales mapping
-- [ ] Include predictive forecasting models
-- [ ] Add year-over-year comparison views
-- [ ] Create mobile-responsive version
 
 ---
